@@ -6,3 +6,6 @@ The main content is housed in HomePage.jsx, where an eye-catching introduction a
 The Projects.jsx component showcases detailed college projects in a grid format, each with a hover effect for descriptions. A dedicated FAQs.jsx section provides commonly asked questions about the developer, styled with dropdown interactions. The Contact.jsx page features a clean, form-based layout with fields for email, name, and message submission.
 
 The entire application is efficiently routed using RoutePage.jsx, ensuring smooth navigation between sections. The portfolio maintains a visually appealing yet professional design, balancing usability and creativity.
+
+
+While the Public folder holds the images of the portfolio
